@@ -1,0 +1,7 @@
+1 - plotta imagem
+
+2 - cria modelo 
+	salva pesos em arquivo
+
+3 - inferencia sobre imagem unica
+	salva em arquivo
